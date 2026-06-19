@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test.py)",
+      "Bash(python -c ' *)",
+      "Bash(python import_dataset.py)"
+    ]
+  }
+}
